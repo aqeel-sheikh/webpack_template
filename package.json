@@ -13,8 +13,8 @@
     "url": "git+https://github.com/aqeel-sheikh/webpack_template.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Aqeel Sheikh",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aqeel-sheikh/webpack_template/issues"
   },
