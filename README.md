@@ -1,9 +1,3 @@
-***REMOVED***
-
-***REMOVED***
-
-
-
 # Webpack Template
 
 [![Webpack](https://img.shields.io/badge/webpack-5-blue?logo=webpack)](https://webpack.js.org/)
